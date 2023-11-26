@@ -1,0 +1,27 @@
+Q1. What is a Computer?
+Ans: Computer is an device that stores and processes data in binary form, according to
+instructions given to it in a variable program.
+
+Q2. What is RAM?
+Ans: RAM stands for Random Access Memory. It is a hardware device thay acts as an internal 
+memory of the CPU. Usually located on the motherboard of acomputer, it allows the CPU to 
+store data, program and program results.
+
+Q3. Where is data stored in a computer?
+Ans: In a computer, data is stored in the Central Processing Unit, or the CPU.
+
+Q4. What is that input device used to type text and numbers on a document in the computer system?
+Ans: Keyboard is the input device used to type text and numbers on a document in the computer system.
+
+Q5. What are the output devices?
+Ans: Some examples of output devices are Monitor, Printer, etc.
+
+Q6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans: Mouse is the input device through which one can move the cursor or pointer on the screen.
+
+Q7. Which language is directly understood by the computer without a translation program?
+Ans: Machine Language or machine code is the language the computer understands directly.
+It is a low-level language composed of binary digits, that is 1s and 0s.
+
+Q8. What are Input devices?
+Ans: Some examples of input devices are: Keyboard, Mouse, Joystick. etc.
